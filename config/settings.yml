@@ -10,3 +10,6 @@ plugins:
     default: ''
   microsoft_auth_email_verified:
     default: false
+  microsoft_auth_tenant_id:
+    client: false
+    default: 'common'
